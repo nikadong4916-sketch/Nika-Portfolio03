@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 import { AnimatePresence, motion } from "motion/react";
-import Home from "./pages/Home";
+import Home from "./Home";
 import ProjectDetail from "./ProjectDetail";
 import Navbar from "./Navbar";
 
