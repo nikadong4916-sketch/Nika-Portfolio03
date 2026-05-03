@@ -2,8 +2,8 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from "react-route
 import { useEffect } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import Home from "./pages/Home";
-import ProjectDetail from "./pages/ProjectDetail";
-import Navbar from "./components/Navbar";
+import ProjectDetail from "./ProjectDetail";
+import Navbar from "./Navbar";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
