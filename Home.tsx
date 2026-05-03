@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { projects, personalInfo } from "./data";
-import ProjectCard from "../components/ProjectCard";
+import ProjectCard from "./components/ProjectCard";
 import { ArrowRight, Mail, Phone, MessageSquare } from "lucide-react";
 
 export default function Home() {
