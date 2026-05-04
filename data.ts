@@ -20,7 +20,7 @@ export const personalInfo = {
   role: "UXUI Designer",
   bio: "Crafting digital experiences at the intersection of human intuition and artificial intelligence. Specialized in minimal interfaces and immersive spatial design.",
   skills: ["设计创新", "AI工作流", "产品体验", "Builder", "Vibe Coding", "设计驱动"],
-  profileImage: "https://i.imgur.com/D7xeahM.jpeg",
+  profileImage: "/images/ledger-cover.png",
   social: {
     email: "525572505@qq.com",
     wechat: "Nikadiyiming",
@@ -35,11 +35,11 @@ export const projects: Project[] = [
     title: "C端项目",
     shortDescription: "体验创新驱动",
     fullDescription: "设计师如何从0到1搭建完整的体验链路，通过设计驱动提升产品核心表现。",
-    coverImage: "https://i.imgur.com/JskITyV.png",
+    coverImage: "/images/project-01-cover.png",
     gallery: [
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png"
+      "/images/project-01-detail-01.png",
+      "/images/project-01-detail-02.png",
+      "/images/project-01-detail-03.png"
     ],
     tags: ["设计驱动", "AI", "体验创新n"],
     year: "2025.01-2025.06"
@@ -49,13 +49,11 @@ export const projects: Project[] = [
     title: "视觉项目",
     shortDescription: "AIGC体验提效",
     fullDescription: "AIGC在视觉运营项目中的提效应用",
-    coverImage: "https://i.imgur.com/JskITyV.png",
+    coverImage: "/images/project-02-cover.png",
     gallery: [
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png"
+      "/images/project-02-detail-01.png",
+      "/images/project-02-detail-02.png",
+      "/images/project-02-detail-03.png"
     ],
     tags: ["Product Design", "AI", "System"],
     year: "2025.06-2025.12"
@@ -65,12 +63,11 @@ export const projects: Project[] = [
     title: "AI工作流创新",
     shortDescription: "结合AI工具为设计提效",
     fullDescription: " AI工作在设计工作流程中的实战应用",
-    coverImage: "https://i.imgur.com/JskITyV.png",
+    coverImage: "/images/project-03-cover.png",
     gallery: [
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png",
-      "https://i.imgur.com/JskITyV.png"
+      "/images/project-03-detail-01.png",
+      "/images/project-03-detail-02.png",
+      "/images/project-03-detail-03.png"
     ],
     tags: ["Audio", "AI", "React"],
     year: "2026.01-2026.06"
